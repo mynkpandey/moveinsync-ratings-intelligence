@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+
+# Large review datasets
+data/raw_reviews.csv
+data/cleaned_reviews.csv
+data/low_rated_reviews.csv
+data/categorized_low_reviews.csv
+data/recent_low_rated_reviews.csv
